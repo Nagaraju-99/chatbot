@@ -1,0 +1,49 @@
+
+Welcome to the Chatbot. Type 'exit' to quit.
+
+Ask a question: Tell me a number
+LLM Answer: 7
+
+Ask a question: Add 45 and 30
+LLM Answer: 75
+
+Ask a question: Divide 84 by 12
+LLM Answer: 7.0
+
+Ask a question: Which is the largest country in the world?
+LLM Answer: Russia
+
+Ask a question: What are the colors in a rainbow?
+LLM Answer: The colors in a rainbow are red, orange, yellow, green, blue, indigo, and violet.
+
+Ask a question: Which planet is the hottest?
+LLM Answer: Venus is the hottest planet in our solar system with surface temperatures reaching up to 900 degrees Fahrenheit (475 degrees Celsius) due to its thick atmosphere of carbon dioxide and clouds of sulfuric acid that trap heat from the Sun.
+
+Ask a question: Tell me why the sky is blue?
+LLM Answer: The sky appears blue to the human eye because of the way the Earth's atmosphere scatters sunlight. The Earth's atmosphere is composed of gases and particles that interact with sunlight as it passes through. When sunlight enters the atmosphere, it is made up of a spectrum of colors ranging from red to violet. The shorter blue wavelengths of light are scattered in all directions by the tiny molecules of air in Earth's atmosphere. This scattering is called Rayleigh scattering. Blue light is scattered more than other colors because it travels as shorter, smaller waves. This causes the blue light to dominate the color of the sky, giving it a blue appearance to our eyes.
+
+Ask a question: Who was the first person to walk on the moon?
+LLM Answer: Neil Armstrong
+
+Ask a question: What is artificial intelligence?
+LLM Answer: Artificial intelligence (AI) is a branch of computer science that focuses on creating machines and systems that can perform tasks that typically require human intelligence. This includes tasks such as visual perception, speech recognition, decision-making, and language translation. AI systems are designed to learn from experience, adapt to new situations, and perform tasks similar to human cognition.
+
+Ask a question: Explain what Python programming language
+LLM Answer: Python is a high-level programming language that is widely used for various types of programming tasks, such as web development, data analysis, artificial intelligence, and scientific computing. It is known for its simplicity and readability, making it easy for beginners to learn and use.
+Python supports multiple programming paradigms, such as procedural, object-oriented, and functional programming. It has a large standard library that provides built-in functions and modules for common programming tasks, reducing the need for developers to write code from scratch.
+
+Ask a question: Multiply 9 and 8, and also tell me the capital of Japan.
+Sorry, I can only handle one task at a time.Please ask one question at a time.
+
+Ask a question: Add 15 and 25, then tell me about the weather.
+Sorry, I can only handle one task at a time.Please ask one question at a time.
+
+Ask a question: Calculate 5 to the power of 3
+LLM Answer: Sorry, I can't solve this. Try using an online math solver like https://www.mathgptpro.com for help.
+
+Ask a question: calculate log(10)  
+LLM Answer: Sorry, I can't solve this. Try using an online math solver like https://www.mathgptpro.com for help.
+
+Ask a question: exit
+
+Goodbye! Thanks for chatting.
