@@ -8,9 +8,9 @@ A Python chatbot that integrates Large Language Model (LLM) with a calculator to
 - Calculator Tool: Handles mathematical operations (addition, subtraction, multiplication, division)
 - Intelligent Query Routing: Automatically detects math queries vs general questions
 - Graceful Failure Handling: Manages multi-step queries with helpful error messages
-- Secure API Management: Uses environment variables for API key protection
+- Secure API Management: Uses environment variables for API key protection.
 
-How to run the codes
+#How to run the codes
 
 Install Required Dependencies
 
